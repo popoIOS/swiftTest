@@ -42,6 +42,13 @@ class HomeViewController: UIViewController,UITableViewDelegate,UITableViewDataSo
     // MARK:  ----tableviewDelegate
     func numberOfSections(in tableView: UITableView) -> Int {
         return 1;
+        
+        
+        
+        
+        
+        
+        
     }
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
