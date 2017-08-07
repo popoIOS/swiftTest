@@ -15,7 +15,27 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+
+        
+//        let user : String? = UserDefaults.standard.value(forKey: "first") as? String;
+        
+//        if user == nil || user != "1"{
+            self.window?.rootViewController = GuildeViewController();
+
+//        }else{
+//            let vc : TabbarViewController = UIStoryboard.init(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "TabBar") as! TabbarViewController
+//            self.window?.rootViewController = vc;
+//        }
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
         return true
     }
 
