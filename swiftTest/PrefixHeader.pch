@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  swiftTest
+//
+//  Created by jiayx on 2017/7/25.
+//  Copyright © 2017年 jiayx. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "bridge.h"
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
