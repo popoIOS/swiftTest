@@ -22,11 +22,14 @@ class PersonalViewController: UIViewController,UIScrollViewDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+<<<<<<< HEAD
         //////
         
         ///
         //
         
+=======
+>>>>>>> 3d1c9d2e767d731b63eaed7313bc0073b6c79c3a
         navigationController?.navigationBar.isHidden = true
 //        table.register(UITableViewCell.self, forCellReuseIdentifier: "Cell")
     }
